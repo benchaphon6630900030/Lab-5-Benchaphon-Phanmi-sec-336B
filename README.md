@@ -1,1 +1,3 @@
-# Lab-5-Benchaphon-Phanmi-sec-336B
+Benchaphon Phanmi
+CE 312 Homework : Lab 1
+Section B
